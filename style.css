@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa; /* Achtergrondkleur */
+}
+
+.navbar {
+    background-color: #007bff; /* Navigatie kleur */
+}
+
+.nav-link {
+    color: white !important; /* Nav link kleur */
+}
+
+.nav-link:hover {
+    color: #ffdd57 !important; /* Hover kleur voor nav links */
+}
